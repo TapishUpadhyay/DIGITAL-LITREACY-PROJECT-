@@ -1,6 +1,5 @@
 Digital Literacy Project
 
- Student Details
 Name: Tapish Upadhyay  
 Registration Number: 25BCE10583  
 Branch: B.Tech Computer Science  
