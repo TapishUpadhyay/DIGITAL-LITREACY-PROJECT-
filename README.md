@@ -64,20 +64,31 @@ digital-literacy-project/<BR>
 
 README.md
 
-
 report/
+
     Project_Report.docx
 task-1-presentation/
+
     description.md
+    
 task-2-portfolio/
+
     reflection.md
+    
 task-3-platforms/
+
     description.md
+    
 task-4-email-etiquette/
+
     emails.md
+    
     social-media-checklist.md
+    
 task-5-cybercrime/
+
       casestudy.md
+      
      prevention-checklist.md
 
 ---
