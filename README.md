@@ -38,7 +38,7 @@ Set up professional profiles on GitHub, LinkedIn, and Kaggle. Created a GitHub p
 ### Module 3 — Coding & Collaboration Platforms
 Completed a beginner challenge on HackerRank and built a 5-question Digital Literacy Awareness Quiz using Google Forms.
 
-🔗 **Google Form Quiz Link:** [Add your Google Form link here]
+🔗 **Google Form Quiz Link:** https://docs.google.com/forms/d/e/1FAIpQLSfaMWYGssc1CX3nxAzfidmtlfcpvwIpF6aK7fKB-0eJP-KiGA/viewform?usp=publish-editor
 
 📁 See: [`task-3-platforms/`](./task-3-platforms/)
 
