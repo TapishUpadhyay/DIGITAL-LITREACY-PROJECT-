@@ -60,8 +60,11 @@ Wrote a case study on phishing and created a Stay Safe Online prevention checkli
 
 ## Repository Structure
 
-digital-literacy-project/
+digital-literacy-project/<BR>
+
 README.md
+
+
 report/
     Project_Report.docx
 task-1-presentation/
