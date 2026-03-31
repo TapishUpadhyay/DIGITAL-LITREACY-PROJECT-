@@ -60,38 +60,37 @@ Wrote a case study on phishing and created a Stay Safe Online prevention checkli
 
 ## Repository Structure
 
-digital-literacy-project/<BR>
+digital-literacy-project
 
 README.md
 
-report/
+report
 
-    Project_Report.docx
-task-1-presentation/
+ Project_Report.docx
+task-1-presentation
 
-    description.md
+ description.md
     
-task-2-portfolio/
+task-2-portfolio
 
-    reflection.md
+  reflection.md
     
 task-3-platforms/
 
-    description.md
+ description.md
     
 task-4-email-etiquette/
 
-    emails.md
+emails.md
     
-    social-media-checklist.md
+ social-media-checklist.md
     
 task-5-cybercrime/
 
-      casestudy.md
+  casestudy.md
       
-     prevention-checklist.md
+ prevention-checklist.md
 
----
 
 ## Useful Links
 | GitHub-https://github.com/TapishUpadhyay
