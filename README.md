@@ -1,13 +1,93 @@
-Digital Literacy Project
+# Digital Literacy Portfolio — CSE0001
 
-Name: Tapish Upadhyay  
-Registration Number: 25BCE10583  
-Branch: B.Tech Computer Science  
-Year: 1st Year  
-University: VIT Bhopal University  
-Course Code: CSE0001  
+**Student Digital Ambassador Project**
 
- Project Overview
-This Digital Literacy Project was completed as part of the CSE0001 course. The objective of this project is to understand and demonstrate essential digital skills required for students in today's digital world. The project covers topics such as digital tools, online safety, professional communication, and cybercrime awareness.
+| Field | Details |
+|---|---|
+| **Name** | [Your Full Name] |
+| **Registration No.** | [Your Reg No.] |
+| **Branch** | [Your Branch] |
+| **Year** | First Year B.Tech |
+| **Course Code** | CSE0001 – Digital Literacy |
+| **Date** | [Submission Date] |
 
+---
 
+## Project Overview
+
+This repository is my Digital Literacy Portfolio for the CSE0001 course at VIT Bhopal University. As a Student Digital Ambassador, I have completed five tasks covering digital awareness, professional online presence, coding platforms, email etiquette, and cybercrime prevention.
+
+---
+
+## Module Summaries
+
+### Module 1 — Digital Literacy Awareness Infographic
+Designed a one-page infographic using Canva covering what digital literacy is, safe internet practices, and professional online presence. The infographic is aimed at helping batchmates understand the importance of being digitally literate.
+
+📁 See: [`task-1-presentation/`](./task-1-presentation/)
+
+---
+
+### Module 2 — Student Digital Portfolio
+Set up professional profiles on GitHub, LinkedIn, and Kaggle. Created a GitHub profile README and filled in academic details on LinkedIn.
+
+📁 See: [`task-2-portfolio/`](./task-2-portfolio/)
+
+---
+
+### Module 3 — Coding & Collaboration Platforms
+Completed a beginner challenge on HackerRank and built a 5-question Digital Literacy Awareness Quiz using Google Forms.
+
+🔗 **Google Form Quiz Link:** [Add your Google Form link here]
+
+📁 See: [`task-3-platforms/`](./task-3-platforms/)
+
+---
+
+### Module 4 — Email Etiquette & Social Media Guide
+Drafted two professional emails (extension request + internship inquiry) and created a Social Media Do's and Don'ts checklist for college students.
+
+📁 See: [`task-4-email-etiquette/`](./task-4-email-etiquette/)
+
+---
+
+### Module 5 — Cybercrime Awareness
+Wrote a case study on phishing and created a Stay Safe Online prevention checklist with 8+ actionable tips relevant to Indian college students.
+
+📁 See: [`task-5-cybercrime/`](./task-5-cybercrime/)
+
+---
+
+## Repository Structure
+
+```
+digital-literacy-project/
+├── README.md
+├── report/
+│   └── Project_Report.docx
+├── task-1-presentation/
+│   └── description.md
+├── task-2-portfolio/
+│   └── reflection.md
+├── task-3-platforms/
+│   └── description.md
+├── task-4-email-etiquette/
+│   ├── emails.md
+│   └── social-media-checklist.md
+└── task-5-cybercrime/
+    ├── casestudy.md
+    └── prevention-checklist.md
+```
+
+---
+
+## Useful Links
+
+| Resource | URL |
+|---|---|
+| Canva | canva.com |
+| GitHub | github.com |
+| LinkedIn | linkedin.com |
+| HackerRank | hackerrank.com |
+| Cyber Crime Portal | cybercrime.gov.in |
+| Cyber Crime Helpline | 1930 |
