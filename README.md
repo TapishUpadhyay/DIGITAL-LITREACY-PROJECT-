@@ -60,24 +60,22 @@ Wrote a case study on phishing and created a Stay Safe Online prevention checkli
 
 ## Repository Structure
 
-```
 digital-literacy-project/
-├── README.md
-├── report/
-│   └── Project_Report.docx
-├── task-1-presentation/
-│   └── description.md
-├── task-2-portfolio/
-│   └── reflection.md
-├── task-3-platforms/
-│   └── description.md
-├── task-4-email-etiquette/
-│   ├── emails.md
-│   └── social-media-checklist.md
-└── task-5-cybercrime/
-    ├── casestudy.md
-    └── prevention-checklist.md
-```
+README.md
+report/
+    Project_Report.docx
+task-1-presentation/
+    description.md
+task-2-portfolio/
+    reflection.md
+task-3-platforms/
+    description.md
+task-4-email-etiquette/
+    emails.md
+    social-media-checklist.md
+task-5-cybercrime/
+      casestudy.md
+     prevention-checklist.md
 
 ---
 
