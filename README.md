@@ -4,12 +4,12 @@
 
 | Field | Details |
 |---|---|
-| **Name** | [Your Full Name] |
-| **Registration No.** | [Your Reg No.] |
-| **Branch** | [Your Branch] |
+| **Name** | TAPISH UPADHYAY |
+| **Registration No.** | 25BCE10583 |
+| **Branch** | CSE(CORE) |
 | **Year** | First Year B.Tech |
 | **Course Code** | CSE0001 – Digital Literacy |
-| **Date** | [Submission Date] |
+| **Date** | 31.03.2026 |
 
 ---
 
@@ -82,12 +82,5 @@ digital-literacy-project/
 ---
 
 ## Useful Links
-
-| Resource | URL |
-|---|---|
-| Canva | canva.com |
-| GitHub | github.com |
-| LinkedIn | linkedin.com |
-| HackerRank | hackerrank.com |
-| Cyber Crime Portal | cybercrime.gov.in |
-| Cyber Crime Helpline | 1930 |
+| GitHub-https://github.com/TapishUpadhyay
+| LinkedIn -https://www.linkedin.com/in/tapish-upadhyay-9916053ab/
