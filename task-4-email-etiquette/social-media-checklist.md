@@ -1,6 +1,6 @@
 # Social Media Do's and Don'ts for College Students
 
-## ✅ DO's
+##  DO's
 
 1. **Keep your profiles professional.** Use a clear, appropriate profile photo and a bio that reflects your academic identity — especially on LinkedIn and GitHub.
 
@@ -18,7 +18,7 @@
 
 ---
 
-## ❌ DON'Ts
+##  DON'Ts
 
 1. **Don't share personal information publicly.** Avoid posting your home address, phone number, daily schedule, or financial details on any public platform.
 
@@ -35,5 +35,3 @@
 7. **Don't use the same password across platforms.** If one account is compromised, all others become vulnerable.
 
 ---
-
-> Save this checklist and refer to it before making any major social media decisions.
